@@ -8,7 +8,7 @@
 
 ## Access the [COMP1238.md](comp1238.md) file through this link 
 
- ## College Schedule
+## College Schedule
 
 - **Monday**
 
